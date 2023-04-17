@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace  std;
 
 bool hod_player_1(int figure, int user_hod); //главная функция, вызывающая функцию хода конкретной фигуры.
